@@ -1,0 +1,102 @@
+	*{
+		margin:0%;
+	}
+		.nav{
+			display: flex;
+			align-items: center;
+			justify-content: space-around;
+			background-color: white;
+			padding:0.5%;
+
+		}
+		
+		#paytm{
+			margin-left: 10%;
+		}
+		
+		#career{
+			margin-left: 10%;
+		}
+		.nav img{
+			vertical-align: middle;
+		}
+		.nav a{
+			text-decoration: none;
+			color: black;
+			font-size: 18px;
+			font-family: 'Poppins', sans-serif;
+			margin-top: 1%;
+		}
+		.nav button{
+			background-color:#00BAF2;
+			border-radius: 35px;
+			color: white;
+		}
+	    button:hover{
+	    	 background-color: navy;
+	    }
+	    .para1{
+	    	background-color: #F6F6F6;
+	    	color: black;
+	    	text-align: center;
+	    	font-weight: bold;
+	    	font-size: 15px;
+	    	margin-top: 1%;
+	    	padding: 1%;
+	    	font-family: 'Poppins', sans-serif;
+	    }
+	    .sec1{
+	    	display: flex;
+	    	margin-top: 8%;
+	    	margin-left: 10%;
+	    	
+	    	
+	    }
+	    
+	    .sec1 #h1{
+	    	margin-top: 8%;
+	    	font-size: 50px;
+	    	margin-bottom: 3%;
+	    	font-family: 'Poppins', sans-serif;
+
+	    }
+	   
+	    .sec1 a{
+	    	display: inline-block;
+	    	background-color: black;
+	    	color: white;
+	    	text-align: center;
+	    	justify-content: space-around;
+	    	text-decoration: none;
+	    	border: 1px solid black;
+	    	border-radius: 30px;
+	    	padding:2.5%;
+	    	padding-right: 5%;
+	    	padding-left: 5%;
+	    	margin-top:8%;
+	    	font-size: 15px;
+	    	font-family: 'Poppins', sans-serif;
+	    }
+
+	    .sec1 #p{
+	    	font-size: 19px;
+	    	font-family: 'Poppins', sans-serif;
+	    }
+	    
+	    
+	    .div2{
+	    	margin-left: 25%;
+	    }
+    .sec1 a:hover{
+    	background-color: white;
+    	color: black;
+    }
+    .sec2{
+    	display: inline-block;
+    	background-color:#00BAF2;
+    	color: white;
+    	padding: 10%;
+    }	
+    .div2{
+    	display: flex;
+    }
