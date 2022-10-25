@@ -85,18 +85,131 @@
 	    
 	    
 	    .div2{
-	    	margin-left: 25%;
+	    	margin-left: 28%;
 	    }
     .sec1 a:hover{
     	background-color: white;
     	color: black;
     }
+    .div2{
+    	display: flex;
+    }
     .sec2{
     	display: inline-block;
     	background-color:#00BAF2;
     	color: white;
-    	padding: 10%;
-    }	
-    .div2{
-    	display: flex;
+    	padding:2.3%;
+    	width: 95.3%;
+    	margin-top:7%;
     }
+    .div3{
+    	display: flex;
+    	align-items: center;
+    	justify-content: space-around;
+    	font-size: 20px;
+    	font-family: sans-serif;
+
+    }
+    .div3 a{
+    	text-decoration: none;
+    	color:white;
+
+s
+    }	
+    .div3 img{
+    	margin-bottom:15%;
+    	width: 50%;
+
+    }
+    .div3 h5{
+    	margin-left: 3%;
+    	line-height: 1.5;
+    }
+    .sec2 h1{
+    	font-size: 35px;
+    	font-family: sans-serif;
+    	margin-bottom:0.3%;
+    	margin-left: 9%;
+    	margin-top: 2%; 
+
+    }
+    .first{
+    	margin-left: 8%;
+    }
+    .last{
+    	margin-right:7%;
+
+    }
+    .last1{
+    	margin-right:10%;
+
+    }
+
+    #img1{
+    	width: 43%;
+    }
+    .div3 div{
+    	border: 1px skyblue;
+    	border-radius: 20px;
+    	padding:1.7%;
+    } 
+    .div3 div:hover{
+    	background-color:cornflowerblue;
+    	color: white;
+    }
+    .sec3{
+    	display: inline-block;
+    	background-color:#0F4A8A;
+    	color: white;
+    	padding:2%;
+    	width: 96%;
+    }
+    .sec3 h1{
+    	font-size: 35px;
+    	font-family: sans-serif;
+    	margin-bottom:0.3%;
+    	margin-left: 9%;
+    	margin-top: 2%;
+    	} 
+    #img2{
+    	width: 70%;
+    }
+    .sec5{
+    	background-color: lightgrey;
+
+    }
+     .sec5 a{
+	    	display: inline-block;
+	    	background-color: black;
+	    	color: white;
+	    	text-align: center;
+	    	justify-content: space-around;
+	    	text-decoration: none;
+	    	border: 1px solid black;
+	    	border-radius: 30px;
+	    	padding:2.5%;
+	    	padding-right: 5%;
+	    	padding-left: 5%;
+	    	margin-top:8%;
+	    	font-size: 15px;
+	    	font-family: 'Poppins', sans-serif;
+	    }
+	    .sec5 a:hover{
+    	background-color: white;
+    	color: black;
+    }
+    .div4 div{
+    	display: inline-block;
+    }
+    .div4{
+    	display: flex;
+    	justify-content: center;
+    	background-color: white;
+    	width: 60%;
+    	margin-left: 20%;
+    	padding: 5% 10%;
+
+    }
+
+    	
+
