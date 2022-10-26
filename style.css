@@ -175,10 +175,12 @@ s
     	width: 70%;
     }
     .sec5{
-    	background-color: lightgrey;
+    	margin-top: 0%;
+    	background-color: rgba(238,238,238,0.6);
+    	padding-bottom: 10%;
 
     }
-     .sec5 a{
+     .div4 a{
 	    	display: inline-block;
 	    	background-color: black;
 	    	color: white;
@@ -193,23 +195,139 @@ s
 	    	margin-top:8%;
 	    	font-size: 15px;
 	    	font-family: 'Poppins', sans-serif;
+	    	margin-left:5% ;
 	    }
 	    .sec5 a:hover{
     	background-color: white;
     	color: black;
     }
-    .div4 div{
-    	display: inline-block;
-    }
     .div4{
     	display: flex;
     	justify-content: center;
     	background-color: white;
-    	width: 60%;
-    	margin-left: 20%;
-    	padding: 5% 10%;
+    	border-radius: 10px;
+    	width: 72%;
+    	margin:  0% ;
+    	margin-left: 12% ;
+    	padding: 5% 1.5% 5% 2%;
+    	margin-bottom: 3%;
+    }
+    .wallet{
+    	display: flex;
+    	align-items: center;
+    	font-size: 15px;
+    	margin-bottom: 3%;
+    }
+    .sec5 h1{
+    	font-size: 40px;
+    	font-family: sans-serif;
+    	margin-left:15%;
+    	margin-bottom: 3%;
+    	padding-top: 7%;
+    }
+    .div4 h1{
+    	font-size: 40px;
+    	font-family: sans-serif;
+    	font-weight: bold;
+    	margin-left: 2%;
+    }
+    .div4 p{
+    	font-size: 17px;
+    	font-weight: bold;
+    	font-family: sans-serif;
+    	margin-left: 2%;
+    	margin-top: 6%;
 
     }
+    #Learn{
+    	border: 1px solid navy;
+    	border-radius: 35px;
+    	background-color:navy ;
+    	color: white;
+    	padding: 3%;
 
-    	
+    }
+    .div5{
+    	display: flex;
+    	justify-content: center;
+    	background-color: white;
+    	border-radius: 20px;
+    	width: 72%;
+    	margin:  0%;
+    	margin-left: 12% ;
+    	padding: 5% 1.5% 5% 2%;
+    	margin-bottom: 3%;
+    }
+    .div5 a{
+    	text-decoration: none;
+    	margin-top: 5%;
+    }
 
+    .div5 h1{
+    	font-size: 40px;
+    	font-family: sans-serif;
+    	font-weight: bold;
+    	margin-left: 4%;
+    }
+    .div5 p{
+    	font-size: 17px;
+    	font-weight: bold;
+    	font-family: sans-serif;
+    	margin-left: 4%;
+    	margin-top: 6%;
+    	margin-bottom: 10%;
+
+    }
+    .div5 .wallet{
+    	margin-top: 4%;
+
+    }
+    .div5 #Learn:hover{
+    	background-color: #00BAF2;
+    	color: white;
+    }
+    .div6{
+    	display: flex;
+
+    }
+    .div61{
+    	background-color: white;
+    	margin-left:12%;
+    	width: 40%;
+    	padding-right:1%;
+    }
+   .div62{
+    	background-color: white;
+    	margin-right: 13%;
+    	margin-left: 3%;
+    	width: 40%;
+    }
+    .div61 img,p{
+    	margin-left: 14%;
+    }
+    
+    .div61 img{
+    	padding-top: 9%;
+
+    }
+    .div61 p{
+    	font-size: 20px;
+    }
+.div62 img,p{
+    	margin-left: 14%;
+    }
+    
+    .div62 img{
+    	margin-top: 10%;
+    	padding-top: 9%;
+
+    }
+    .div62 p{
+    	font-size: 20px;
+    }
+    #card{
+    	margin-bottom: 0%;
+    }
+    .sec8{
+    	display: flex;
+    }
